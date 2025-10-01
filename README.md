@@ -1,2 +1,3 @@
-SEM_Demo
-![workflow](https://img.shields.io/badge/passing)
+# SEM_Demo
+
+![workflow](https://github.com/PyiTheinKyaw40794499/sem/actions/workflows/main.yml/badge.svg)
