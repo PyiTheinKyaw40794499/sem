@@ -1,2 +1,4 @@
 # DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/PyiTheinKyaw40794499/sem/<action name taken from main.yml>/<branch>?style=flat-square)
+
+![Main Build](https://github.com/PyiTheinKyaw40794499/sem/actions/workflows/main.yml/badge.svg)
+![Develop Build](https://img.shields.io/github/actions/workflow/status/PyiTheinKyaw40794499/sem/main.yml?branch=develop&style=flat-square)
