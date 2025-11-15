@@ -3,8 +3,8 @@
 
 Software Enginnering Method
 
-[![LICENSE](https://img.shields.io/github/license/PyiTheinKyaw40794499/devops.svg?style=flat-square)](https://github.com/PyiTheinKyaw40794499/devops/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/PyiTheinKyaw40794499/sem.svg?style=flat-square)](https://github.com/PyiTheinKyaw40794499/sem/blob/master/LICENSE)
 
-[![Releases](https://img.shields.io/github/release/PyiTheinKyaw40794499/devops/all.svg?style=flat-square)](https://github.com/PyiTheinKyaw40794499/devops/releases)
+[![Releases](https://img.shields.io/github/release/PyiTheinKyaw40794499/sem/all.svg?style=flat-square)](https://github.com/PyiTheinKyaw40794499/sem/releases)
 
 A workflow for my hello world app
