@@ -10,4 +10,4 @@ Software Enginnering Method
 A workflow for my hello world app
 
 # DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/PyiTheinKyaw40794499/sem/<action name taken from main.yml>/develop?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/PyiTheinKyaw40794499/sem/A%20workflow%20for%20my%20Hello%20World%20App/develop?style=flat-square)
